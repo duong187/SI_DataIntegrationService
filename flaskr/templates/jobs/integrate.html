@@ -1,0 +1,97 @@
+{% extends 'base.html' %}
+
+{% block panel %}
+<!-- <img  src="{{ url_for('static', filename='/assets/home.jpg') }}" /> -->
+<div class='panel-home' >
+  <h1>{% block title %}Hiện đang có {{jobs_count}} tin tuyển dụng việc làm {% endblock %}</h1>
+<!-- <form class="searchBox" method="GET" action="/search">
+  <input class="searchInput" type='text' name = 'search_text' />
+  <button class="searchButton" type='submit'><i class="material-icons">
+    search
+</i></button>
+</form> -->
+
+  <div class="wrap" >
+      <form class="search" method="GET" action="/home">
+        <input type="text" class="searchTerm" name='search_text' placeholder="Tìm Kiếm">
+        <button type="submit" class="searchButton">
+          <i class="fa fa-search"></i>
+        </button>
+      </form>
+  </div>
+</div>
+
+{% endblock %}
+
+{% block header %}
+{% endblock %}
+
+{% block content %}
+  
+  <div class="job-list" >
+  {% for job in duplicates %}
+    <div>
+      <h1 style="color: blue;">Cặp công việc trùng lặp</h1>
+      <article class="job1">
+        <header>
+          <div>
+            <a href="{{ url_for('home') }}">
+              <h1 style="color: black;">{{ job['l_title'] }}</h1>
+            </a>
+            <div class="about">Đăng bởi: {{ job['l_company'] }}</div>
+          </div>
+        </header>
+        <p class="body">
+            <div>
+              {% if job['l_salary']!=0 %}
+                <p>Lương:{{job['l_salary']}} vnd</p>
+              {% endif %}
+              {% if job['l_salary']==0 %}
+                <p>Lương: Thương lượng</p>
+              {% endif %}
+                <p>Địa chỉ công ty: {{job['l_address']}}</p>
+                <!-- <p>Link mô tả chi tiết công việc: <a>{{job['url']}}</a></p> -->
+            </div>
+        </p>
+      </article>
+
+      <article class="job2">
+        <header>
+          <div>
+            <a href="{{ url_for('home') }}">
+              <h1 style="color: black;">{{ job['r_title'] }}</h1>
+            </a>
+            <div class="about">Đăng bởi: {{ job['r_company'] }}</div>
+          </div>
+        </header>
+        <p class="body">
+            <div>
+              {% if job['r_salary']!=0 %}
+                <p>Lương:{{job['r_salary']}} vnd</p>
+              {% endif %}
+              {% if job['r_salary']==0 %}
+                <p>Lương: Thương lượng</p>
+              {% endif %}
+                <p>Địa chỉ công ty: {{job['r_address']}}</p>
+                <!-- <p>Link mô tả chi tiết công việc: <a>{{job['url']}}</a></p> -->
+            </div>
+        </p>
+      </article>
+    </div>
+    <!-- {% if not loop.last %}
+      <hr>
+    {% endif %} -->
+    <hr>
+  {% endfor %}
+</div>
+  <hr>
+  <div>{{ page }}</div>
+  <form method="get" action="/home">
+    <label for="page_num">Số trang</label>
+    <input name="page_num" id="page_num" required>
+    <input type="submit" value="Go">
+    {% if text_s!=""%}
+    <input style="display: none;" type="text" name="search_text"  value = "{{text_s}}" >
+    {% endif %}
+  </form>
+{% endblock %}

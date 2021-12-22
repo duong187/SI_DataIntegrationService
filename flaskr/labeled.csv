@@ -1,0 +1,239 @@
+,_id,l_id,r_id,l_title,l_company,l_salary,r_title,r_company,r_benefits,r_maxSalary,r_minSalary,_sim_score,label
+0,0,23,14,Embedded Software Engineer - Japanese N3,LG Vehicle Component Solutions Development Center Vietnam (LG VS DCV),"700 - 2,000 USD","[URGENT] Software Test Engineer - Manual Testing - Upto $1,500 - Hanoi",LG Vehicle Component Solutions Development Center Vietnam (LG VS DCV),"Bonus, Others, Training",1500,600,0.8125,0
+1,1,226,14,"Manual Tester - Up to $1,500",LG Vehicle Component Solutions Development Center Vietnam (LG VS DCV),"600 - 1,500 USD","[URGENT] Software Test Engineer - Manual Testing - Upto $1,500 - Hanoi",LG Vehicle Component Solutions Development Center Vietnam (LG VS DCV),"Bonus, Others, Training",1500,600,0.8125,1
+2,2,572,14,Software Engineer (Java/.NET/PHP/Python),SystemGear Vietnam,"600 - 1,200 usd","[URGENT] Software Test Engineer - Manual Testing - Upto $1,500 - Hanoi",LG Vehicle Component Solutions Development Center Vietnam (LG VS DCV),"Bonus, Others, Training",1500,600,0.6,0
+3,3,299,40,Mobile Apps Developer (Flutter),Symper,You'll love it,Mobile Developer (Flutter) - Lương up to 1200$,Công Ty Cổ Phần Tập Đoàn Sunshine,"Bonus, Training, Paid Leave",1800,0,0.6,0
+4,4,585,40,Mobile Developer (Flutter),Sunshine Group,You'll love it,Mobile Developer (Flutter) - Lương up to 1200$,Công Ty Cổ Phần Tập Đoàn Sunshine,"Bonus, Training, Paid Leave",1800,0,0.8,1
+5,5,558,42,Project Manager,GoQuo Vietnam,You'll love it,Japanese Project Manager (Renovation & Maintenance North Projects),"Kajima Vietnam Co., Ltd","Healthcare Plan, Others, Bonus",0,0,0.75,0
+6,6,115,62,"Data Engineer (SQL, Python)",Techcombank,You'll love it,Senior Data Engineer,Techcombank,"Healthcare Plan, Bonus, Paid Leave",0,0,0.75,1
+7,7,269,62,Senior Data Engineer (Python),VPBank,You'll love it,Senior Data Engineer,Techcombank,"Healthcare Plan, Bonus, Paid Leave",0,0,0.75,0
+8,8,115,63,"Data Engineer (SQL, Python)",Techcombank,You'll love it,Test Engineer,Techcombank,"Healthcare Plan, Bonus, Paid Leave",0,0,0.666666667,0
+9,9,199,63,Test Engineer ( Data),Techcombank,You'll love it,Test Engineer,Techcombank,"Healthcare Plan, Bonus, Paid Leave",0,0,1,1
+10,10,52,64,DevOps Engineer,VPBank,You'll love it,Cloud DevOps (DevSecOps) Engineer,Techcombank,"Healthcare Plan, Bonus, Paid Leave",0,0,0.666666667,0
+11,11,427,64,DevOps Engineer,VINBRAIN,You'll love it,Cloud DevOps (DevSecOps) Engineer,Techcombank,"Healthcare Plan, Bonus, Paid Leave",0,0,0.666666667,0
+12,12,17,65,Cloud Solution Architect,Công ty cổ phần HTC Viễn Thông Quốc Tế,Up to 45tr,Cloud Solution Architect,Techcombank,"Bonus, Healthcare Plan, Paid Leave",0,0,0.75,0
+13,13,23,68,Embedded Software Engineer - Japanese N3,LG Vehicle Component Solutions Development Center Vietnam (LG VS DCV),"700 - 2,000 USD","Embedded Software Engineer - Over N3 Japanese Preferred - Salary Up-To $2,000",LG Vehicle Component Solutions Development Center Vietnam (LG VS DCV),"Others, Training, Bonus",2000,700,1,1
+14,14,226,68,"Manual Tester - Up to $1,500",LG Vehicle Component Solutions Development Center Vietnam (LG VS DCV),"600 - 1,500 USD","Embedded Software Engineer - Over N3 Japanese Preferred - Salary Up-To $2,000",LG Vehicle Component Solutions Development Center Vietnam (LG VS DCV),"Others, Training, Bonus",2000,700,0.6875,0
+15,15,572,68,Software Engineer (Java/.NET/PHP/Python),SystemGear Vietnam,"600 - 1,200 usd","Embedded Software Engineer - Over N3 Japanese Preferred - Salary Up-To $2,000",LG Vehicle Component Solutions Development Center Vietnam (LG VS DCV),"Others, Training, Bonus",2000,700,0.6,0
+16,16,209,72,Senior UI/UX Designer (x3),"Niteco Vietnam Co., Ltd",You'll love it,Architecture,"Kajima Vietnam Co., Ltd","Training, Bonus, Awards",0,0,0.6,0
+17,17,321,72,"Java Developer (Spring, Oracle)","Kuehne + Nagel Co., Ltd Vietnam",You'll love it,Architecture,"Kajima Vietnam Co., Ltd","Training, Bonus, Awards",0,0,0.6,0
+18,18,323,72,"Mobile Dev (Android, Kotlin, WkWebview)","Lotte Data Communicaton Co., Ltd Vietnam",Up to $2000,Architecture,"Kajima Vietnam Co., Ltd","Training, Bonus, Awards",0,0,0.6,0
+19,19,331,72,DevOps (Fresh),"Lotte Data Communicaton Co., Ltd Vietnam",You'll love it,Architecture,"Kajima Vietnam Co., Ltd","Training, Bonus, Awards",0,0,0.6,0
+20,20,336,72,"Project Leader (Java, C/C++)","Lotte Data Communicaton Co., Ltd Vietnam",You'll love it,Architecture,"Kajima Vietnam Co., Ltd","Training, Bonus, Awards",0,0,0.6,0
+21,21,393,72,"Senior .NET Devs x12 (C#, ASP.NET, MVC)","Niteco Vietnam Co., Ltd",You'll love it,Architecture,"Kajima Vietnam Co., Ltd","Training, Bonus, Awards",0,0,0.6,0
+22,22,468,72,"05 Ruby On RailDevelopers (Ruby, MySQL)","Vareal Vietnam Co., Ltd",Up to 1600$,Architecture,"Kajima Vietnam Co., Ltd","Training, Bonus, Awards",0,0,0.6,0
+23,23,483,72,Senior Tester (x3),"Niteco Vietnam Co., Ltd",You'll love it,Architecture,"Kajima Vietnam Co., Ltd","Training, Bonus, Awards",0,0,0.6,0
+24,24,547,72,Senior Project Managers (x6),"Niteco Vietnam Co., Ltd",You'll love it,Architecture,"Kajima Vietnam Co., Ltd","Training, Bonus, Awards",0,0,0.6,0
+25,25,559,72,"Sr Frontend x 8 (HTML5/CSS, JavaScript)","Niteco Vietnam Co., Ltd",You'll love it,Architecture,"Kajima Vietnam Co., Ltd","Training, Bonus, Awards",0,0,0.6,0
+26,26,312,79,Business Analyst,Avenue,Up to 20m vnd gross,Business Analyst [Upto $1200],Giao Hàng Tiết Kiệm,"Healthcare Plan, Training, Bonus",1200,400,0.666666667,0
+27,27,23,83,Embedded Software Engineer - Japanese N3,LG Vehicle Component Solutions Development Center Vietnam (LG VS DCV),"700 - 2,000 USD","[URGENT - Hanoi] C/C++ Software Engineer - Global Automotive Projects - Upto $2,000",LG Vehicle Component Solutions Development Center Vietnam (LG VS DCV),"Bonus, Training, Others",2000,700,0.8125,1
+28,28,226,83,"Manual Tester - Up to $1,500",LG Vehicle Component Solutions Development Center Vietnam (LG VS DCV),"600 - 1,500 USD","[URGENT - Hanoi] C/C++ Software Engineer - Global Automotive Projects - Upto $2,000",LG Vehicle Component Solutions Development Center Vietnam (LG VS DCV),"Bonus, Training, Others",2000,700,0.6875,0
+29,29,572,83,Software Engineer (Java/.NET/PHP/Python),SystemGear Vietnam,"600 - 1,200 usd","[URGENT - Hanoi] C/C++ Software Engineer - Global Automotive Projects - Upto $2,000",LG Vehicle Component Solutions Development Center Vietnam (LG VS DCV),"Bonus, Training, Others",2000,700,0.6,0
+30,30,23,90,Embedded Software Engineer - Japanese N3,LG Vehicle Component Solutions Development Center Vietnam (LG VS DCV),"700 - 2,000 USD",Software Engineer,Fujitsu Vietnam Ltd,"Healthcare Plan, Bonus, Training",0,0,0.6,0
+31,31,191,90,Java Software Engineer - Up to $1500,Kofax Vietnam,"1,000 - 1,500 USD",Software Engineer,Fujitsu Vietnam Ltd,"Healthcare Plan, Bonus, Training",0,0,0.6,0
+32,32,193,90,.NET Software Engineer - Up to $1500,Kofax Vietnam,"1,000 - 1,500 USD",Software Engineer,Fujitsu Vietnam Ltd,"Healthcare Plan, Bonus, Training",0,0,0.6,0
+33,33,297,90,[URGENT] C++ Software Engineer (OOP),Panasonic Vietnam Group – Panasonic R&D Center Vietnam (PRDCV),You'll love it,Software Engineer,Fujitsu Vietnam Ltd,"Healthcare Plan, Bonus, Training",0,0,0.6,0
+34,34,527,90,C++(MFC/ATL) Senior Software Engineer,Kofax Vietnam,"1,200 - 2,000 USD",Software Engineer,Fujitsu Vietnam Ltd,"Healthcare Plan, Bonus, Training",0,0,0.6,0
+35,35,534,90,Java Software Engineer - Up to $1500,Kofax Vietnam,"1,000 - 1,500 USD",Software Engineer,Fujitsu Vietnam Ltd,"Healthcare Plan, Bonus, Training",0,0,0.6,0
+36,36,572,90,Software Engineer (Java/.NET/PHP/Python),SystemGear Vietnam,"600 - 1,200 usd",Software Engineer,Fujitsu Vietnam Ltd,"Healthcare Plan, Bonus, Training",0,0,0.6,0
+37,37,574,90,"Software Engineer (Python, Golang, Java)",Teko Vietnam,You'll love it,Software Engineer,Fujitsu Vietnam Ltd,"Healthcare Plan, Bonus, Training",0,0,0.6,0
+38,38,269,102,Senior Data Engineer (Python),VPBank,You'll love it,Chuyên Viên Cao Cấp Mô Hình Dữ Liệu - Senior Data Modeling - Hà Nội,VPBank - Https://tuyendung.vpbank.com.vn/,"Paid Leave, Bonus, Healthcare Plan",0,0,0.6,1
+39,39,269,103,Senior Data Engineer (Python),VPBank,You'll love it,Chuyên Viên Cao Cấp Quản Lý Dữ Liệu - Senior Data Analyst - Hà Nội,VPBank - Https://tuyendung.vpbank.com.vn/,"Paid Leave, Bonus, Healthcare Plan",0,0,0.6,0
+40,40,458,103,Senior Business Analyst,VPBank,You'll love it,Chuyên Viên Cao Cấp Quản Lý Dữ Liệu - Senior Data Analyst - Hà Nội,VPBank - Https://tuyendung.vpbank.com.vn/,"Paid Leave, Bonus, Healthcare Plan",0,0,0.75,1
+41,41,52,107,DevOps Engineer,VPBank,You'll love it,"DevOps Engineer (Dwh, Linux) - Up to 2000$",LOTTE Data Communication Company Limited Vietnam,"Bonus, Paid Leave, Healthcare Plan",0,0,0.666666667,0
+42,42,427,107,DevOps Engineer,VINBRAIN,You'll love it,"DevOps Engineer (Dwh, Linux) - Up to 2000$",LOTTE Data Communication Company Limited Vietnam,"Bonus, Paid Leave, Healthcare Plan",0,0,0.666666667,0
+43,43,521,126,QA Engineer,PLAYSTUDIOS,"800 - 1,300 USD",Software QA Engineer,Công Ty TNHH Active-Semi Việt Nam (Qorvo),"Training, Healthcare Plan, Bonus",0,0,0.666666667,0
+44,44,52,133,DevOps Engineer,VPBank,You'll love it,DevOps Engineer,Công Ty TNHH Vinbrain,Healthcare Plan,0,0,0.666666667,0
+45,45,427,133,DevOps Engineer,VINBRAIN,You'll love it,DevOps Engineer,Công Ty TNHH Vinbrain,Healthcare Plan,0,0,0.666666667,1
+46,46,510,137,Lập trình Mobile App (Android/Flutter),Công Ty Cổ Phần Giải Pháp Phần Mềm Tài Chính (FSSC),You'll love it,"Nhân Viên Kinh Doanh Dự Án CNTT Mảng Tài Chính, Ngân Hàng, Chứng Khoán",Công Ty Cổ Phần Giải Pháp Phần Mềm Tài Chính - Financial Software Solutions,"Bonus, Healthcare Plan, Travel Opportunities",1200,750,0.6,0
+47,47,19,141,Senior Web Developer,East Agile,"1,500 - 3,000 USD",Senior Web Developer,East Agile,"Healthcare Plan, Team Activities, Bonus",3500,1500,1,1
+48,48,25,158,Android Developer,Avenue,Up to 21m vnd gross,15 Ios/ Android Developer - Upto $2000,"Ftech CO., LTD","Team Activities, Others, Bonus",2000,500,0.666666667,0
+49,49,314,158,Android Developer,Indigosws,"1,200 - 2,000 USD",15 Ios/ Android Developer - Upto $2000,"Ftech CO., LTD","Team Activities, Others, Bonus",2000,500,0.666666667,0
+50,50,98,206,".NET Developer (ASP.NET, C#)",GrapeCity,"1,000 - 2,300 USD",Fullstack Developer (C# / .NET / JavaScript ),GrapeCity,"Bonus, Healthcare Plan, Team Activities",2300,1000,0.6,1
+51,51,506,231,.NET Tech Manager (Up to $2000),NOVAON DIGITAL GROUP,Up to $2000,.NET Tech Manager (Up to $2000),Tập Đoàn Digital Novaon,"Bonus, Paid Leave, Healthcare Plan",2000,1500,0.666666667,1
+52,52,125,232,".NET Devs (C#, ASP.NET) - Up to $1500",NOVAON DIGITAL GROUP,Up to $1500,".NET Devs (C#, ASP.NET) - Up to $1500",Tập Đoàn Digital Novaon,"Healthcare Plan, Paid Leave, Bonus",1500,1000,0.727272727,1
+53,53,353,308,Frontend Developer,Vietkentech,"500 - 2,300 USD",Chuyên Viên Cao Cấp Phát Triển Ứng Dụng - Frontend Developer - Hà Nội,VPBank - Https://tuyendung.vpbank.com.vn/,"Bonus, Healthcare Plan, Paid Leave",0,0,0.666666667,0
+54,54,312,321,Business Analyst,Avenue,Up to 20m vnd gross,Business Analyst,LOTTE Data Communication Company Limited Vietnam,Bonus,0,0,0.666666667,0
+55,55,547,326,Senior Project Managers (x6),"Niteco Vietnam Co., Ltd",You'll love it,Senior Project Managers (x5) - Attractive Salary,"Niteco (Vietnam) CO., Ltd","Bonus, Healthcare Plan, Training",0,0,0.625,1
+56,56,312,334,Business Analyst,Avenue,Up to 20m vnd gross,Senior Business Analyst - Hà Nội,VPBank - Https://tuyendung.vpbank.com.vn/,"Healthcare Plan, Paid Leave, Bonus",0,0,0.666666667,0
+57,57,458,334,Senior Business Analyst,VPBank,You'll love it,Senior Business Analyst - Hà Nội,VPBank - Https://tuyendung.vpbank.com.vn/,"Healthcare Plan, Paid Leave, Bonus",0,0,1,1
+58,58,269,336,Senior Data Engineer (Python),VPBank,You'll love it,Chuyên Gia Phát Triển Giải Pháp Dữ Liệu - Senior Data Solution Developer - Hà Nội,VPBank - Https://tuyendung.vpbank.com.vn/,"Healthcare Plan, Bonus, Paid Leave",0,0,0.6,0
+59,59,269,337,Senior Data Engineer (Python),VPBank,You'll love it,Senior Data Developer - Hà Nội,VPBank - Https://tuyendung.vpbank.com.vn/,"Paid Leave, Healthcare Plan, Bonus",0,0,0.6,1
+60,60,463,345,IT Manager,Vinpearl,You'll love it,"IT Vendor Manager - Hà Nội, Hồ Chí Minh",VPBank - Https://tuyendung.vpbank.com.vn/,"Bonus, Healthcare Plan, Paid Leave",0,0,0.666666667,0
+61,61,103,353,PHP Developer (Upto 2000$ NET),Giao Hàng Tiết Kiệm,"500 - 2,000 USD",PHP Developer (Upto 2000$ Net) [HN],Công Ty Cổ Phần Giao Hàng Tiết Kiệm,"Bonus, Healthcare Plan, Travel Opportunities",2000,500,0.888888889,1
+62,62,105,353,Java Developer (Upto 2000 NET),Giao Hàng Tiết Kiệm,"500 - 2,000 USD",PHP Developer (Upto 2000$ Net) [HN],Công Ty Cổ Phần Giao Hàng Tiết Kiệm,"Bonus, Healthcare Plan, Travel Opportunities",2000,500,0.666666667,0
+63,63,395,353,Frontend Developer (Upto 2000$ NET),Giao Hàng Tiết Kiệm,"500 - 2,000 USD",PHP Developer (Upto 2000$ Net) [HN],Công Ty Cổ Phần Giao Hàng Tiết Kiệm,"Bonus, Healthcare Plan, Travel Opportunities",2000,500,0.777777778,0
+64,64,180,402,".NET Developer (C#, Networking)",BSI,Up to 20m,"[HOT] 05 .NET Developer (C#, Asp.net, MVC) Up to 1200$",Công Ty TNHH Công Nghệ Phần Mềm Bình Anh,"Bonus, Healthcare Plan, Training",0,0,0.6,0
+65,65,386,424,Senior Quality Assurance (QA),VPBank,You'll love it,Chuyên Viên Cao Cấp Kiểm Soát Chất Lượng - Quality Assurance Leader - Hà Nội,VPBank - Https://tuyendung.vpbank.com.vn/,"Healthcare Plan, Bonus, Paid Leave",0,0,0.6,1
+66,66,312,454,Business Analyst,Avenue,Up to 20m vnd gross,Chuyên Viên Phân Tích Nghiệp Vụ Business Analyst (BA) – Lương Từ 700 USD Đến 1200 USD,Công Ty Cổ Phần Bkav,"Team Activities, Awards, Healthcare Plan",1200,700,0.666666667,0
+67,67,303,463,Game Product Manager,Gear Inc.,You'll love it,Product Development Manager - Garment/textile (Trưởng Phòng Phát Triển Sản Phẩm),Hanesbrands Inc. ( Hys),"Travel Opportunities, Healthcare Plan, Transportation",0,0,0.6,0
+68,68,391,477,Senior Software Development Manager,ASCEND,You'll love it,Senior Business Development Manager ( Mandarin/ English Fluency),Greenyellow,"Laptop, Bonus, Healthcare Plan",0,0,0.6,0
+69,69,79,563,Automation Test - Sign bonus 1mth salary,FPT Software,You'll love it,Fresher Automation Test,FPT Software,"Bonus, Travel Opportunities, Healthcare Plan",0,0,0.8,1
+70,70,492,575,React Native Developer - Up to 1500$,EZDEFI,Up to 1500$,Java Developer Làm Việc Tại Hà Nội - Lương Up to 1500$ Cùng Rất Nhiều Chế Độ Đãi Ngộ Tốt,"Nittsu System Vietnam Co.,ltd","Travel Opportunities, Awards, Bonus",1500,1000,0.625,0
+71,71,572,594,Software Engineer (Java/.NET/PHP/Python),SystemGear Vietnam,"600 - 1,200 usd",Pre-Sales Software Engineer in Hanoi,"Fujifilm Business Innovation Vietnam Co., Ltd.","Paid Leave, Training, Bonus",0,0,0.6,0
+72,72,94,599,Trưởng nhóm vận hành An Ninh Thông Tin,Techcombank,You'll love it,Trưởng Nhóm Giám Sát An Ninh Thông Tin và Kiểm Soát Vận Hành An Ninh Thông Tin,Techcombank,"Healthcare Plan, Bonus, Paid Leave",0,0,0.666666667,1
+73,73,312,606,Business Analyst,Avenue,Up to 20m vnd gross,Tuyển Business Analyst – BA,Công Ty Cổ Phần Bkav,"Healthcare Plan, Others, Team Activities",0,0,0.666666667,0
+74,74,532,614,SAP ABAP Developer (System Engineer),Golden Gate,Very attractive,SAP ABAP Developer,Golden Gate Trade & Service JSC,"Laptop, Vouchers, Bonus",0,0,0.714285714,1
+75,75,46,621,"Big Data Engineer (Python, Scala)",Viettel Media,Up to $2000,Data Engineer,Techcombank,"Bonus, Healthcare Plan, Paid Leave",0,0,0.666666667,0
+76,76,115,621,"Data Engineer (SQL, Python)",Techcombank,You'll love it,Data Engineer,Techcombank,"Bonus, Healthcare Plan, Paid Leave",0,0,1,1
+77,77,134,621,Data & Analytics Engineer (Python/Java),One Mount Group,You'll love it,Data Engineer,Techcombank,"Bonus, Healthcare Plan, Paid Leave",0,0,0.666666667,0
+78,78,199,621,Test Engineer ( Data),Techcombank,You'll love it,Data Engineer,Techcombank,"Bonus, Healthcare Plan, Paid Leave",0,0,0.666666667,1
+79,79,269,621,Senior Data Engineer (Python),VPBank,You'll love it,Data Engineer,Techcombank,"Bonus, Healthcare Plan, Paid Leave",0,0,0.666666667,0
+80,80,284,621,"Data Engineer (Python, Java) Up to 50M",VNtravel Group,20 - 50m,Data Engineer,Techcombank,"Bonus, Healthcare Plan, Paid Leave",0,0,0.666666667,0
+81,81,350,621,Data Science Engineer (AI/Python/Cloud),Panasonic Vietnam Group – Panasonic R&D Center Vietnam (PRDCV),You'll love it,Data Engineer,Techcombank,"Bonus, Healthcare Plan, Paid Leave",0,0,0.666666667,0
+82,82,546,621,"Data Engineer (Python, SQL)",Golden Gate,Atractive,Data Engineer,Techcombank,"Bonus, Healthcare Plan, Paid Leave",0,0,0.666666667,0
+83,83,25,653,Android Developer,Avenue,Up to 21m vnd gross,Mobile Developer - Android (Up to 2000$),LOTTE Data Communication Company Limited Vietnam,Bonus,0,0,0.666666667,0
+84,84,314,653,Android Developer,Indigosws,"1,200 - 2,000 USD",Mobile Developer - Android (Up to 2000$),LOTTE Data Communication Company Limited Vietnam,Bonus,0,0,0.666666667,0
+85,85,540,653,Android Mobile Developer,Colibri Growth,"1,000 - 2,000 USD",Mobile Developer - Android (Up to 2000$),LOTTE Data Communication Company Limited Vietnam,Bonus,0,0,0.6,0
+86,86,463,706,IT Manager,Vinpearl,You'll love it,IT Manager,"TC Services Vietnam Co.,ltd.","Healthcare Plan, Training, Bonus",0,0,0.666666667,0
+87,87,537,786,"20 Junior Java Dev (Spring, AngularJS)",VNPT Technology,Up to $1500,"30 Java Dev (Spring, Mysql, AngularJS)",Công Ty Cổ Phần Công Nghệ Công Nghiệp Bưu Chính Viễn Thông - VNPT Technology,"Canteen, Bonus, Training",1500,800,0.75,1
+88,88,463,789,IT Manager,Vinpearl,You'll love it,Project Manager (Japanese),Công Ty TNHH Công Nghệ Kaiyou IT Quốc Tế,"Awards, Bonus, Others",3000,2000,0.666666667,0
+89,89,168,803,"12 Java Dev (AngularJS, SQL) Upto$2000",Koh Young Technology Inc,Up to $2000,"12 Java Dev (AngularJS, SQL)",Công Ty TNHH Koh Young Việt Nam,"Bonus, Others, Healthcare Plan",0,0,0.7,1
+90,90,133,856,Trưởng Phòng IT (PHP/Laravel/Wordpress),NovaEdu,You'll love it,"Trưởng Phòng IT (IT Manager, Project Manager, My SQL)","Mbi Motors Co., Ltd","Healthcare Plan, Others, Bonus",2000,1500,0.6,0
+91,91,510,878,Lập trình Mobile App (Android/Flutter),Công Ty Cổ Phần Giải Pháp Phần Mềm Tài Chính (FSSC),You'll love it,Lập Trình Viên NodeJS (Chấp Nhận Fresher),Công Ty Cổ Phần Giải Pháp Phần Mềm Tài Chính - Financial Software Solutions,"Training, Awards, Bonus",1000,450,0.666666667,1
+92,92,353,890,Frontend Developer,Vietkentech,"500 - 2,300 USD",Frontend Developer (VinID/ Vinshop),One Mount Group,"Paid Leave, Bonus, Healthcare Plan",0,0,0.666666667,0
+93,93,163,926,20 Software Devs–Signing bonus up to 20M,FPT Software,You'll love it,20 Software Developers – Signing Bonus up to 25M,FPT Software,"Travel Opportunities, Bonus, Healthcare Plan",0,0,0.625,1
+94,94,321,964,"Java Developer (Spring, Oracle)","Kuehne + Nagel Co., Ltd Vietnam",You'll love it,Business Development Manager - Road Logistics,"Kuehne + Nagel Co., Ltd Vietnam","Team Activities, Bonus, Healthcare Plan",0,0,0.6,0
+95,95,312,979,Business Analyst,Avenue,Up to 20m vnd gross,IT Business Analyst,Techcombank,"Healthcare Plan, Paid Leave, Bonus",0,0,0.666666667,0
+96,96,487,979,IT Business Analyst (All level),Truyền Thông Nam Việt,"500 - 1,500 USD",IT Business Analyst,Techcombank,"Healthcare Plan, Paid Leave, Bonus",0,0,0.75,0
+97,97,610,979,IT Business Analyst,Techcombank,You'll love it,IT Business Analyst,Techcombank,"Healthcare Plan, Paid Leave, Bonus",0,0,1,1
+98,98,353,1001,Frontend Developer,Vietkentech,"500 - 2,300 USD",Frontend React Developer (Attractive Salary/ Flexible working time) - Upto 1800$,Advesa,"Paid Leave, Training, Team Activities",1800,800,0.666666667,0
+99,99,114,1018,Senior Back End Developer (Java/.NET),Techcombank,You'll love it,Senior Back End Developer,Techcombank,"Healthcare Plan, Paid Leave, Bonus",0,0,1,1
+100,100,229,1018,"Senior Angular Developer (HTML5, CSS)",Techcombank,You'll love it,Senior Back End Developer,Techcombank,"Healthcare Plan, Paid Leave, Bonus",0,0,0.6,0
+101,101,231,1018,Senior Mobile Developer ( Android),Techcombank,You'll love it,Senior Back End Developer,Techcombank,"Healthcare Plan, Paid Leave, Bonus",0,0,0.6,0
+102,102,496,1018,Sr Back End Developer (Java/NodeJS/SQL),Techcombank,You'll love it,Senior Back End Developer,Techcombank,"Healthcare Plan, Paid Leave, Bonus",0,0,0.8,1
+103,103,191,1043,Java Software Engineer - Up to $1500,Kofax Vietnam,"1,000 - 1,500 USD",".NET Software Engineer (salary Up to Usd 1,500)","Kofax Vietnam Co., Ltd.","Healthcare Plan, Bonus",1500,1000,0.666666667,0
+104,104,192,1043,Mobile Software Engineer.,Kofax Vietnam,"1,000 - 1,500 USD",".NET Software Engineer (salary Up to Usd 1,500)","Kofax Vietnam Co., Ltd.","Healthcare Plan, Bonus",1500,1000,0.6,0
+105,105,193,1043,.NET Software Engineer - Up to $1500,Kofax Vietnam,"1,000 - 1,500 USD",".NET Software Engineer (salary Up to Usd 1,500)","Kofax Vietnam Co., Ltd.","Healthcare Plan, Bonus",1500,1000,0.777777778,1
+106,106,527,1043,C++(MFC/ATL) Senior Software Engineer,Kofax Vietnam,"1,200 - 2,000 USD",".NET Software Engineer (salary Up to Usd 1,500)","Kofax Vietnam Co., Ltd.","Healthcare Plan, Bonus",1500,1000,0.666666667,0
+107,107,534,1043,Java Software Engineer - Up to $1500,Kofax Vietnam,"1,000 - 1,500 USD",".NET Software Engineer (salary Up to Usd 1,500)","Kofax Vietnam Co., Ltd.","Healthcare Plan, Bonus",1500,1000,0.666666667,0
+108,108,535,1043,Mobile Software Engineer.,Kofax Vietnam,"1,000 - 1,500 USD",".NET Software Engineer (salary Up to Usd 1,500)","Kofax Vietnam Co., Ltd.","Healthcare Plan, Bonus",1500,1000,0.6,0
+109,109,572,1043,Software Engineer (Java/.NET/PHP/Python),SystemGear Vietnam,"600 - 1,200 usd",".NET Software Engineer (salary Up to Usd 1,500)","Kofax Vietnam Co., Ltd.","Healthcare Plan, Bonus",1500,1000,0.6,1
+110,110,191,1044,Java Software Engineer - Up to $1500,Kofax Vietnam,"1,000 - 1,500 USD","Java Software Engineer (Salary up to 1,500$)","Kofax Vietnam Co., Ltd.","Bonus, Healthcare Plan, Paid Leave",1500,1000,0.666666667,1
+111,111,192,1044,Mobile Software Engineer.,Kofax Vietnam,"1,000 - 1,500 USD","Java Software Engineer (Salary up to 1,500$)","Kofax Vietnam Co., Ltd.","Bonus, Healthcare Plan, Paid Leave",1500,1000,0.6,0
+112,112,527,1044,C++(MFC/ATL) Senior Software Engineer,Kofax Vietnam,"1,200 - 2,000 USD","Java Software Engineer (Salary up to 1,500$)","Kofax Vietnam Co., Ltd.","Bonus, Healthcare Plan, Paid Leave",1500,1000,0.666666667,0
+113,113,534,1044,Java Software Engineer - Up to $1500,Kofax Vietnam,"1,000 - 1,500 USD","Java Software Engineer (Salary up to 1,500$)","Kofax Vietnam Co., Ltd.","Bonus, Healthcare Plan, Paid Leave",1500,1000,0.666666667,1
+114,114,535,1044,Mobile Software Engineer.,Kofax Vietnam,"1,000 - 1,500 USD","Java Software Engineer (Salary up to 1,500$)","Kofax Vietnam Co., Ltd.","Bonus, Healthcare Plan, Paid Leave",1500,1000,0.6,0
+115,115,572,1044,Software Engineer (Java/.NET/PHP/Python),SystemGear Vietnam,"600 - 1,200 usd","Java Software Engineer (Salary up to 1,500$)","Kofax Vietnam Co., Ltd.","Bonus, Healthcare Plan, Paid Leave",1500,1000,0.6,0
+116,116,1,1045,Mobile Engineer (iOS),Teko Vietnam,You'll love it,"Mobile Software Engineer (Salary Up to 1,500$)","Kofax Vietnam Co., Ltd.","Bonus, Paid Leave, Healthcare Plan",1500,1200,0.6,0
+117,117,191,1045,Java Software Engineer - Up to $1500,Kofax Vietnam,"1,000 - 1,500 USD","Mobile Software Engineer (Salary Up to 1,500$)","Kofax Vietnam Co., Ltd.","Bonus, Paid Leave, Healthcare Plan",1500,1200,0.666666667,1
+118,118,192,1045,Mobile Software Engineer.,Kofax Vietnam,"1,000 - 1,500 USD","Mobile Software Engineer (Salary Up to 1,500$)","Kofax Vietnam Co., Ltd.","Bonus, Paid Leave, Healthcare Plan",1500,1200,0.8,1
+119,119,193,1045,.NET Software Engineer - Up to $1500,Kofax Vietnam,"1,000 - 1,500 USD","Mobile Software Engineer (Salary Up to 1,500$)","Kofax Vietnam Co., Ltd.","Bonus, Paid Leave, Healthcare Plan",1500,1200,0.666666667,0
+120,120,527,1045,C++(MFC/ATL) Senior Software Engineer,Kofax Vietnam,"1,200 - 2,000 USD","Mobile Software Engineer (Salary Up to 1,500$)","Kofax Vietnam Co., Ltd.","Bonus, Paid Leave, Healthcare Plan",1500,1200,0.666666667,0
+121,121,534,1045,Java Software Engineer - Up to $1500,Kofax Vietnam,"1,000 - 1,500 USD","Mobile Software Engineer (Salary Up to 1,500$)","Kofax Vietnam Co., Ltd.","Bonus, Paid Leave, Healthcare Plan",1500,1200,0.666666667,0
+122,122,535,1045,Mobile Software Engineer.,Kofax Vietnam,"1,000 - 1,500 USD","Mobile Software Engineer (Salary Up to 1,500$)","Kofax Vietnam Co., Ltd.","Bonus, Paid Leave, Healthcare Plan",1500,1200,0.8,1
+123,123,572,1045,Software Engineer (Java/.NET/PHP/Python),SystemGear Vietnam,"600 - 1,200 usd","Mobile Software Engineer (Salary Up to 1,500$)","Kofax Vietnam Co., Ltd.","Bonus, Paid Leave, Healthcare Plan",1500,1200,0.6,0
+124,124,103,1062,PHP Developer (Upto 2000$ NET),Giao Hàng Tiết Kiệm,"500 - 2,000 USD",Frontend Developer (Upto $2000 NET),Công Ty Cổ Phần Giao Hàng Tiết Kiệm,"Travel Opportunities, Bonus, Healthcare Plan",2000,500,0.777777778,0
+125,125,105,1062,Java Developer (Upto 2000 NET),Giao Hàng Tiết Kiệm,"500 - 2,000 USD",Frontend Developer (Upto $2000 NET),Công Ty Cổ Phần Giao Hàng Tiết Kiệm,"Travel Opportunities, Bonus, Healthcare Plan",2000,500,0.777777778,0
+126,126,353,1062,Frontend Developer,Vietkentech,"500 - 2,300 USD",Frontend Developer (Upto $2000 NET),Công Ty Cổ Phần Giao Hàng Tiết Kiệm,"Travel Opportunities, Bonus, Healthcare Plan",2000,500,0.666666667,0
+127,127,395,1062,Frontend Developer (Upto 2000$ NET),Giao Hàng Tiết Kiệm,"500 - 2,000 USD",Frontend Developer (Upto $2000 NET),Công Ty Cổ Phần Giao Hàng Tiết Kiệm,"Travel Opportunities, Bonus, Healthcare Plan",2000,500,0.888888889,1
+128,128,209,1074,Senior UI/UX Designer (x3),"Niteco Vietnam Co., Ltd",You'll love it,Senior UI/UX Designer (x3),"Niteco (Vietnam) CO., Ltd","Healthcare Plan, Paid Leave, Bonus",0,0,0.75,1
+129,129,150,1115,Frontend Dev (ReactJS/JavaScript/HTML5),Midas Protocol,Up to $3000,[ Urgent] Frontend Developer (ReactJS),Midas Protocol,"Canteen, Bonus, Paid Leave",0,0,0.6,1
+130,130,353,1115,Frontend Developer,Vietkentech,"500 - 2,300 USD",[ Urgent] Frontend Developer (ReactJS),Midas Protocol,"Canteen, Bonus, Paid Leave",0,0,0.666666667,0
+131,131,270,1179,React Native Developer,VPBank,You'll love it,React Native Developer,Công Ty Cổ Phần NTQ Solution,"Training, Awards, Bonus",1500,1000,0.75,0
+132,132,558,1188,Project Manager,GoQuo Vietnam,You'll love it,Project Manager,Công Ty TNHH Kỹ Thuật Bền Vững Việt Nam - Boydens Vietnam,"Healthcare Plan, Bonus, Team Activities",0,0,0.75,0
+133,133,115,1189,"Data Engineer (SQL, Python)",Techcombank,You'll love it,TEST Engineer,Techcombank,"Healthcare Plan, Paid Leave, Bonus",0,0,0.666666667,0
+134,134,199,1189,Test Engineer ( Data),Techcombank,You'll love it,TEST Engineer,Techcombank,"Healthcare Plan, Paid Leave, Bonus",0,0,0.666666667,1
+135,135,67,1201,Senior Application Operations Officer,Techcombank,You'll love it,Senior Employer Branding Officer,Techcombank,"Paid Leave, Healthcare Plan, Bonus",0,0,0.6,0
+136,136,463,1228,IT Manager,Vinpearl,You'll love it,IT Manager,Wise-Concetti Ltd,"Travel Opportunities, Bonus, Healthcare Plan",0,0,0.666666667,0
+137,137,353,1253,Frontend Developer,Vietkentech,"500 - 2,300 USD","URGENT - Frontend Developer (Attractive Salary, Fintech Projects)",Công Ty Cổ Phần Công Nghệ Tài Chính SmartOSC,"Travel Opportunities, Healthcare Plan, Bonus",2000,600,0.666666667,0
+138,138,312,1264,Business Analyst,Avenue,Up to 20m vnd gross,Senior Business Analyst,Techcombank,"Paid Leave, Bonus, Healthcare Plan",0,0,0.666666667,0
+139,139,458,1264,Senior Business Analyst,VPBank,You'll love it,Senior Business Analyst,Techcombank,"Paid Leave, Bonus, Healthcare Plan",0,0,0.75,0
+140,140,610,1264,IT Business Analyst,Techcombank,You'll love it,Senior Business Analyst,Techcombank,"Paid Leave, Bonus, Healthcare Plan",0,0,0.75,1
+141,141,114,1304,Senior Back End Developer (Java/.NET),Techcombank,You'll love it,Senior Angular Developer,Techcombank,"Paid Leave, Healthcare Plan, Bonus",0,0,0.75,0
+142,142,229,1304,"Senior Angular Developer (HTML5, CSS)",Techcombank,You'll love it,Senior Angular Developer,Techcombank,"Paid Leave, Healthcare Plan, Bonus",0,0,1,1
+143,143,231,1304,Senior Mobile Developer ( Android),Techcombank,You'll love it,Senior Angular Developer,Techcombank,"Paid Leave, Healthcare Plan, Bonus",0,0,0.75,0
+144,144,312,1306,Business Analyst,Avenue,Up to 20m vnd gross,Analyst Business Development,Masan High-Tech Materials,"Others, Bonus, Healthcare Plan",0,0,0.666666667,0
+145,145,114,1313,Senior Back End Developer (Java/.NET),Techcombank,You'll love it,Senior Mobile Developer (Android),Techcombank,"Bonus, Healthcare Plan, Paid Leave",0,0,0.6,0
+146,146,229,1313,"Senior Angular Developer (HTML5, CSS)",Techcombank,You'll love it,Senior Mobile Developer (Android),Techcombank,"Bonus, Healthcare Plan, Paid Leave",0,0,0.6,0
+147,147,230,1313,Senior Mobile Dev (iOS),Techcombank,You'll love it,Senior Mobile Developer (Android),Techcombank,"Bonus, Healthcare Plan, Paid Leave",0,0,0.6,1
+148,148,231,1313,Senior Mobile Developer ( Android),Techcombank,You'll love it,Senior Mobile Developer (Android),Techcombank,"Bonus, Healthcare Plan, Paid Leave",0,0,0.8,1
+149,149,114,1314,Senior Back End Developer (Java/.NET),Techcombank,You'll love it,Senior Mobile Developer (iOS),Techcombank,"Bonus, Healthcare Plan, Paid Leave",0,0,0.6,0
+150,150,229,1314,"Senior Angular Developer (HTML5, CSS)",Techcombank,You'll love it,Senior Mobile Developer (iOS),Techcombank,"Bonus, Healthcare Plan, Paid Leave",0,0,0.6,0
+151,151,230,1314,Senior Mobile Dev (iOS),Techcombank,You'll love it,Senior Mobile Developer (iOS),Techcombank,"Bonus, Healthcare Plan, Paid Leave",0,0,0.8,1
+152,152,231,1314,Senior Mobile Developer ( Android),Techcombank,You'll love it,Senior Mobile Developer (iOS),Techcombank,"Bonus, Healthcare Plan, Paid Leave",0,0,0.8,1
+153,153,115,1340,"Data Engineer (SQL, Python)",Techcombank,You'll love it,Senior Data Engineer (Risk Data),Techcombank,"Paid Leave, Bonus, Healthcare Plan",0,0,0.6,1
+154,154,199,1340,Test Engineer ( Data),Techcombank,You'll love it,Senior Data Engineer (Risk Data),Techcombank,"Paid Leave, Bonus, Healthcare Plan",0,0,0.6,0
+155,155,269,1340,Senior Data Engineer (Python),VPBank,You'll love it,Senior Data Engineer (Risk Data),Techcombank,"Paid Leave, Bonus, Healthcare Plan",0,0,0.6,1
+156,156,25,1346,Android Developer,Avenue,Up to 21m vnd gross,[HN] Android Developer,One Mount Group,"Bonus, Paid Leave, Healthcare Plan",0,0,0.666666667,0
+157,157,314,1346,Android Developer,Indigosws,"1,200 - 2,000 USD",[HN] Android Developer,One Mount Group,"Bonus, Paid Leave, Healthcare Plan",0,0,0.666666667,0
+158,158,67,1420,Senior Application Operations Officer,Techcombank,You'll love it,Chuyên Viên Cao Cấp Vận Hành Hạ Tầng An Ninh Thông Tin/ Senior Officer of Infrastructure Security Operation,Techcombank,"Bonus, Paid Leave, Healthcare Plan",0,0,0.6,0
+159,159,67,1446,Senior Application Operations Officer,Techcombank,You'll love it,Senior Collection Operation Officer,Techcombank,"Healthcare Plan, Paid Leave, Bonus",0,0,0.6,0
+160,160,67,1497,Senior Application Operations Officer,Techcombank,You'll love it,Senior Officer of Collateral Policy,Techcombank,"Healthcare Plan, Bonus, Paid Leave",0,0,0.6,0
+161,161,149,1508,Solution Architect- Up to 3500$,Techcombank,Up to 3500$,Solution Architect- Up to 3500$,Techcombank,"Bonus, Healthcare Plan, Paid Leave",3500,0,1,1
+162,162,265,1509,Scrum Master (Agile),YODY Fashion,18 - 35 triệu + thưởng,Scrum Master (Agile),Techcombank,"Healthcare Plan, Bonus, Paid Leave",2500,1000,0.75,0
+163,163,572,1557,Software Engineer (Java/.NET/PHP/Python),SystemGear Vietnam,"600 - 1,200 usd","R&D Electrical Engineer (Hardware Design, PCB Design or Software Developer, C, C++)",Branch of Panasonic Appliances Vietnam In Hung Yen,"Healthcare Plan, Training, Bonus",0,0,0.6,0
+164,164,181,1576,Business Analyst - Upto 1000$,SAPO,Upto 1000$,Business Analyst - Cty Product - Upto $1200,Công Ty Cổ Phần D.pay,"Bonus, Others, Healthcare Plan",1200,700,0.666666667,0
+165,165,312,1576,Business Analyst,Avenue,Up to 20m vnd gross,Business Analyst - Cty Product - Upto $1200,Công Ty Cổ Phần D.pay,"Bonus, Others, Healthcare Plan",1200,700,0.666666667,0
+166,166,222,1592,"Frontend Dev (JavaScript, ReactJS)",LOGIVAN,"850 - 1,700 USD","Senior Frontend (JavaScript, ReactJS) - Upto 2200$",Vuiapp By Nano Technologies,"Healthcare Plan, Paid Leave, Bonus",0,0,0.6,0
+167,167,545,1592,"Senior Frontend (JavaScript, ReactJS)",VUIAPP by Nano Technologies,"1,400 - 2,200 USD","Senior Frontend (JavaScript, ReactJS) - Upto 2200$",Vuiapp By Nano Technologies,"Healthcare Plan, Paid Leave, Bonus",0,0,0.75,1
+168,168,312,1688,Business Analyst,Avenue,Up to 20m vnd gross,Business Analyst Bizfly,Công Ty Cổ Phần VCCorp (Vc Corporation),"Others, Bonus, Training",0,0,0.666666667,0
+169,169,463,1691,IT Manager,Vinpearl,You'll love it,IT Manager (Salary Upto USD 5000),Headhunter Vietnam Hrchannels.com,"Canteen, Bonus, Healthcare Plan",0,0,0.666666667,0
+170,170,21,1707,Senior Security Engineer - Up to 65M,PropertyGuru Việt Nam,Up to 65m,Senior System Engineer,NEC Việt Nam,"Healthcare Plan, Bonus, Paid Leave",0,0,0.666666667,0
+171,171,52,1724,DevOps Engineer,VPBank,You'll love it,DevOps Engineer - Bizfly Cloud,Công Ty Cổ Phần VCCorp (Vc Corporation),"Training, Bonus, Others",0,0,0.666666667,0
+172,172,427,1724,DevOps Engineer,VINBRAIN,You'll love it,DevOps Engineer - Bizfly Cloud,Công Ty Cổ Phần VCCorp (Vc Corporation),"Training, Bonus, Others",0,0,0.666666667,0
+173,173,197,1735,Tester (QA QC),Crossian,"1,000 - 2,200 USD",Tester (QA QC),Công Ty TNHH Công Nghệ Và Giải Pháp Phần Mềm Crossian,"Healthcare Plan, Training, Bonus",1100,700,1,1
+174,174,264,1735,Tester (QA QC),YODY Fashion,12m - 24m vnd,Tester (QA QC),Công Ty TNHH Công Nghệ Và Giải Pháp Phần Mềm Crossian,"Healthcare Plan, Training, Bonus",1100,700,0.6,0
+175,175,463,1801,IT Manager,Vinpearl,You'll love it,Assistant IT Manager,JW Marriott Hanoi,"Vouchers, Bonus, Canteen",0,0,0.666666667,0
+176,176,617,1819,.NET Developer (C#. VB.NET),"Ep Logis IT Co., Ltd",You'll love it,IT Officer,"Pro-Sports Co., Ltd","Bonus, Healthcare Plan, Paid Leave",0,0,0.6,0
+177,177,303,1849,Game Product Manager,Gear Inc.,You'll love it,Game Product Manager,Gear Inc,"Bonus, Canteen, Paid Leave",0,0,0.8,1
+178,178,421,1864,Mobile iOS Developer (Swift),iMobi,Up to $1500,iOS Developer (Swift) 20- 40 Triệu/tháng,Công Ty TNHH Dịch Vụ Đa Phương Tiện Và Công Nghệ Beetech,"Healthcare Plan, Bonus, Others",1700,860,0.6,0
+179,179,439,1899,Java Developer (Spring),VNDIRECT,"700 - 1,800 USD",Java Developer (Spring),Navigos Search's Client,"Others, Healthcare Plan, Bonus",0,0,0.75,0
+180,180,353,1904,Frontend Developer,Vietkentech,"500 - 2,300 USD",Frontend Developer (Angular),Navigos Search's Client,"Healthcare Plan, Others",0,0,0.666666667,0
+181,181,133,1942,Trưởng Phòng IT (PHP/Laravel/Wordpress),NovaEdu,You'll love it,"Trưởng Phòng Kinh Doanh - Ưu Tiên Có Background Về IT và Có Mối Quan Hệ Với Các Tổ Chức Ngân Hàng, Tài Chính, Bảo Hiểm, Các Cơ Quan Nhà Nước",Công Ty Cổ Phần Nhân Lực Quốc Tế Hri,"Others, Bonus, Kindergarten",0,0,0.6,0
+182,182,134,1963,Data & Analytics Engineer (Python/Java),One Mount Group,You'll love it,Senior Recruiter,One Mount Group,"Others, Training, Bonus",0,0,0.6,0
+183,183,178,1963,Senior QC Engineer (Manual/Automation),VinID (A member of One Mount Group),"1,000 - 2,000 USD",Senior Recruiter,One Mount Group,"Others, Training, Bonus",0,0,0.6,0
+184,184,238,1963,"Senior Frontend Dev (Angular, ReactJS)",VinID (A member of One Mount Group),"1,000 - 2,000 USD",Senior Recruiter,One Mount Group,"Others, Training, Bonus",0,0,0.6,0
+185,185,378,1963,"Senior Java Engineer (Spring, Java Core)",OneHousing (A member of One Mount Group),You'll love it,Senior Recruiter,One Mount Group,"Others, Training, Bonus",0,0,0.6,0
+186,186,541,1963,Business Analyst Team Lead,One Mount Group,You'll love it,Senior Recruiter,One Mount Group,"Others, Training, Bonus",0,0,0.6,0
+187,187,614,1963,Quản lý dự án công nghệ tập đoàn (PMO),One Mount Group,You'll love it,Senior Recruiter,One Mount Group,"Others, Training, Bonus",0,0,0.6,1
+188,188,617,2044,.NET Developer (C#. VB.NET),"Ep Logis IT Co., Ltd",You'll love it,IT Developer,"Bluzen Vina Co., Ltd",Bonus,2500,500,0.666666667,0
+189,189,521,2109,QA Engineer,PLAYSTUDIOS,"800 - 1,300 USD",[ Urgent] QA Automation Engineer,Midas Protocol,"Paid Leave, Bonus, Canteen",1500,500,0.666666667,0
+190,190,87,2141,(Senior) UI/UX Designer,TECHVIFY Vietnam,18mils - 30mils vnđ,UI/UX Designer,Abivin,"Bonus, Team Activities, Canteen",0,0,0.666666667,0
+191,191,173,2141,"UI/UX Designer (AdobeXD, Figma)",Thai Son Soft,Up to 1000 usd,UI/UX Designer,Abivin,"Bonus, Team Activities, Canteen",0,0,0.666666667,0
+192,192,209,2141,Senior UI/UX Designer (x3),"Niteco Vietnam Co., Ltd",You'll love it,UI/UX Designer,Abivin,"Bonus, Team Activities, Canteen",0,0,0.666666667,0
+193,193,312,2225,Business Analyst,Avenue,Up to 20m vnd gross,Senior Business Analyst (HN),Wearejeff,"Bonus, Healthcare Plan, Training",3000,2000,0.666666667,0
+194,194,458,2225,Senior Business Analyst,VPBank,You'll love it,Senior Business Analyst (HN),Wearejeff,"Bonus, Healthcare Plan, Training",3000,2000,0.75,0
+195,195,209,2251,Senior UI/UX Designer (x3),"Niteco Vietnam Co., Ltd",You'll love it,Designer,"Pro-Sports Co., Ltd","Healthcare Plan, Paid Leave, Bonus",0,0,0.75,0
+196,196,542,2262,Mobile Developer (iOS/Android),VCC Exchange,Up to $2000,Mobile Developer (React Native),Vcc Exchange,"Training, Bonus, Others",1500,700,0.6,1
+197,197,210,2349,Senior Solution Architect - Upto $2000,"JMango Vietnam Operations Co.,Ltd",Upto $2000,Architect,LAVA Vietnam,"Others, Team Activities",0,0,0.666666667,0
+198,198,25,2482,Android Developer,Avenue,Up to 21m vnd gross,"[1000$ - 2500$] Android Developer (Kotlin, Top 1 Financial Company in VN)",Navigos Search's Client,"Awards, Bonus, Healthcare Plan",0,0,0.666666667,0
+199,199,314,2482,Android Developer,Indigosws,"1,200 - 2,000 USD","[1000$ - 2500$] Android Developer (Kotlin, Top 1 Financial Company in VN)",Navigos Search's Client,"Awards, Bonus, Healthcare Plan",0,0,0.666666667,0
+200,200,353,2490,Frontend Developer,Vietkentech,"500 - 2,300 USD","[1000$ - 2500$] Frontend Web Developer (Angular, Top 1 Financial Company in VN)",Navigos Search's Client,"Bonus, Healthcare Plan, Awards",0,0,0.666666667,0
+201,201,280,2533,Senior Project Manager - Up to $4000,Alliex Vietnam,Up to $4000,Proposal Manager,Alliex Vietnam JSC,"Bonus, Team Activities, Healthcare Plan",0,0,0.6,0
+202,202,565,2533,IT Operation Manager - Up to $3000,Alliex Vietnam,Up to $3000,Proposal Manager,Alliex Vietnam JSC,"Bonus, Team Activities, Healthcare Plan",0,0,0.6,0
+203,203,280,2537,Senior Project Manager - Up to $4000,Alliex Vietnam,Up to $4000,Senior Sales Manager,Alliex Vietnam JSC,"Bonus, Healthcare Plan, Team Activities",0,0,0.666666667,0
+204,204,166,2576,Mobile Dev (React Native - Android/iOS),M_Service (MoMo),You'll love it,Mobile Developer (React Native - Android/iOS),Công Ty Cổ Phần Dịch Vụ Di Động Trực Tuyến (Ví MoMo),"Bonus, Team Activities, Healthcare Plan",1500,1000,0.625,1
+205,205,353,2699,Frontend Developer,Vietkentech,"500 - 2,300 USD",Frontend Developer (Salary Upto 30M),Posome,Bonus,0,0,0.666666667,0
+206,206,353,2703,Frontend Developer,Vietkentech,"500 - 2,300 USD","Frontend Game Developer (Javascript, Pixijs, Phaser)",Glis Games,"Travel Opportunities, Training, Paid Leave",1500,600,0.666666667,0
+207,207,294,2712,Business Analyst/BA (Onsite Ho Chi Minh),Tester Việt,"800 - 1,300 USD",Business Development/sales Manager (Ha Noi - Ho Chi Minh),Công Ty TNHH Kidsloop Việt Nam,"Healthcare Plan, Team Activities, Others",0,0,0.625,0
+208,208,312,2911,Business Analyst,Avenue,Up to 20m vnd gross,Business Analyst (IT Phân Tích Nghiệp Vụ),Tập Đoàn An Phát,"Bonus, Training, Transportation",1000,550,0.666666667,0
+209,209,312,2930,Business Analyst,Avenue,Up to 20m vnd gross,HN - Khối Ngân Hàng Số - Chuyên Viên Phân Tích Nghiệp Vụ - Business Analyst,Ngân Hàng Thương Mại Cổ Phần Bưu Điện Liên Việt (Lienvietpost Bank),Bonus,0,0,0.666666667,0
+210,210,219,2967,(HCM) Project Manager,Isobar Commerce (Bluecom Solutions),Negotiable,Saleforce Developer (HCM),Isobar Commerce (Bluecom Solutions),"Others, Bonus, Healthcare Plan",0,0,0.714285714,0
+211,211,273,2967,(HCM)Web Dev(NodeJS/PHP/JavaScript/Java),Isobar Commerce (Bluecom Solutions),Negotiable,Saleforce Developer (HCM),Isobar Commerce (Bluecom Solutions),"Others, Bonus, Healthcare Plan",0,0,0.666666667,0
+212,212,584,2967,(HCM) Quality control/Tester,Isobar Commerce (Bluecom Solutions),Negotiable,Saleforce Developer (HCM),Isobar Commerce (Bluecom Solutions),"Others, Bonus, Healthcare Plan",0,0,0.714285714,0
+213,213,273,2970,(HCM)Web Dev(NodeJS/PHP/JavaScript/Java),Isobar Commerce (Bluecom Solutions),Negotiable,(HN) PHP Developers,Isobar Commerce (Bluecom Solutions),"Bonus, Healthcare Plan, Others",0,0,0.666666667,1
+214,214,219,2973,(HCM) Project Manager,Isobar Commerce (Bluecom Solutions),Negotiable,Project Manager,Isobar Commerce (Bluecom Solutions),"Others, Healthcare Plan, Bonus",0,0,1,1
+215,215,273,2973,(HCM)Web Dev(NodeJS/PHP/JavaScript/Java),Isobar Commerce (Bluecom Solutions),Negotiable,Project Manager,Isobar Commerce (Bluecom Solutions),"Others, Healthcare Plan, Bonus",0,0,0.666666667,0
+216,216,584,2973,(HCM) Quality control/Tester,Isobar Commerce (Bluecom Solutions),Negotiable,Project Manager,Isobar Commerce (Bluecom Solutions),"Others, Healthcare Plan, Bonus",0,0,0.666666667,0
+217,217,209,2993,Senior UI/UX Designer (x3),"Niteco Vietnam Co., Ltd",You'll love it,Senior Designer,ABB In Vietnam,"Bonus, Others, Healthcare Plan",0,0,0.6,0
+218,218,159,3026,[HAN] PHP Developer | Up to $1700,Hybrid Technologies,"1,000 - 1,700 USD",[HAN] Marketing Leader | Up to $1500,Hybrid Technologies,"Paid Leave, Bonus, Healthcare Plan",1500,800,0.666666667,1
+219,219,25,3039,Android Developer,Avenue,Up to 21m vnd gross,Android IOS Developer,Navigos Search's Client,"Healthcare Plan, Bonus, Transportation",0,0,0.666666667,0
+220,220,314,3039,Android Developer,Indigosws,"1,200 - 2,000 USD",Android IOS Developer,Navigos Search's Client,"Healthcare Plan, Bonus, Transportation",0,0,0.666666667,0
+221,221,134,3047,Data & Analytics Engineer (Python/Java),One Mount Group,You'll love it,Data & Analytics Engineer,One Mount Group,"Laptop, Bonus, Team Activities",0,0,1,1
+222,222,390,3063,TS Implementation Engineer,NTT Vietnam Solutions,You'll love it,Network Engineer,NTT Vietnam Solutions Ltd.,"Others, Bonus",0,0,0.666666667,0
+223,223,463,3084,IT Manager,Vinpearl,You'll love it,Manager (Software Development) / IT Division,"MSIG Insurance (Vietnam) Co., Ltd.","Travel Opportunities, Paid Leave, Healthcare Plan",0,0,0.666666667,0
+224,224,269,3086,Senior Data Engineer (Python),VPBank,You'll love it,Senior Data Engineer,Navigos Search's Client,"Bonus, Others, Paid Leave",0,0,0.6,0
+225,225,52,3088,DevOps Engineer,VPBank,You'll love it,DevOps Engineer,Navigos Search's Client,"Paid Leave, Others, Bonus",0,0,0.666666667,0
+226,226,427,3088,DevOps Engineer,VINBRAIN,You'll love it,DevOps Engineer,Navigos Search's Client,"Paid Leave, Others, Bonus",0,0,0.666666667,0
+227,227,312,3138,Business Analyst,Avenue,Up to 20m vnd gross,Business Analyst Team Lead,One Mount Group,"Laptop, Bonus, Team Activities",0,0,0.666666667,0
+228,228,541,3138,Business Analyst Team Lead,One Mount Group,You'll love it,Business Analyst Team Lead,One Mount Group,"Laptop, Bonus, Team Activities",0,0,1,1
+229,229,269,3298,Senior Data Engineer (Python),VPBank,You'll love it,Senior Data Engineer,Navigos Search's Client,"Others, Bonus, Paid Leave",0,0,0.6,0
+230,230,52,3300,DevOps Engineer,VPBank,You'll love it,Cloud DevOps (DevSecOps) Engineer,Navigos Search's Client,"Paid Leave, Others, Bonus",0,0,0.666666667,0
+231,231,427,3300,DevOps Engineer,VINBRAIN,You'll love it,Cloud DevOps (DevSecOps) Engineer,Navigos Search's Client,"Paid Leave, Others, Bonus",0,0,0.666666667,0
+232,232,312,3397,Business Analyst,Avenue,Up to 20m vnd gross,[URGENT] Senior IT Business Analyst ($1700 - $2500),Navigos Search's Client,"Others, Paid Leave, Bonus",3000,2000,0.666666667,0
+233,233,458,3397,Senior Business Analyst,VPBank,You'll love it,[URGENT] Senior IT Business Analyst ($1700 - $2500),Navigos Search's Client,"Others, Paid Leave, Bonus",3000,2000,0.75,0
+234,234,610,3397,IT Business Analyst,Techcombank,You'll love it,[URGENT] Senior IT Business Analyst ($1700 - $2500),Navigos Search's Client,"Others, Paid Leave, Bonus",3000,2000,0.75,0
+235,235,25,3398,Android Developer,Avenue,Up to 21m vnd gross,[URGENT] Android Developer/senior Android Developer,Navigos Search's Client,"Bonus, Others, Paid Leave",2500,1500,0.666666667,0
+236,236,314,3398,Android Developer,Indigosws,"1,200 - 2,000 USD",[URGENT] Android Developer/senior Android Developer,Navigos Search's Client,"Bonus, Others, Paid Leave",2500,1500,0.666666667,0
+237,237,558,3471,Project Manager,GoQuo Vietnam,You'll love it,Senior Construction Project Manager (Manufacturing),Avery Dennison RBIS Vietnam,"Healthcare Plan, Others",4000,2500,0.75,0

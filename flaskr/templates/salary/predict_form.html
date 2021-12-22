@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+
+{% block header %}
+Dự đoán mức lương tối đa
+{% endblock %}
+
+{% block content %}
+<form method="post">
+    <label for="address">Địa chỉ:</label>
+    <input name="address" id="address" required>
+    <label for="benefits">Phúc lợi: </label>
+    <input name="benefits" id="benefits" required>
+    <label for="company">Công ty: </label>
+    <input name="company" id="company" required>
+    <label for="description">Mô tả: </label>
+    <input name="description" id="description" required>
+    <label for="title">Tên công việc: </label>
+    <input name="title" id="title" required>
+    <label for="city">Thành phố</label>
+    <input name="city" id="city" required>
+    <label for="cleanTitle">Từ khóa công việc: </label>
+    <input name="cleanTitle" id="cleanTitle" required>
+    <p>Dự đoán: {{ prediction }}</p>
+    <input type="submit" value="Go">
+  </form>
+{% endblock %}
+
+"address","benefits","company","description","title","city","cleanTitle"

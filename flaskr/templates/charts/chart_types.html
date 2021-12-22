@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+
+{% block title %}
+    <h2>Types of charts</h2>
+{% endblock %}
+
+{% block header %}
+Types of charts
+{% endblock %}
+
+{% block content %}
+<div>
+    <ul>
+        <li><a href="{{ url_for('charts.pie') }}">See Pie charts</a></li>
+        <li><a href="{{ url_for('charts.pie_city') }}">Thống kê công việc theo thành phó lớn</a></li>
+        <li><a href="{{ url_for('charts.pie') }}">See Bar charts</a></li>
+        <li><a href="{{ url_for('charts.pie') }}">See Scatter charts</a></li>
+    </ul>
+</div>
+{% endblock %}
