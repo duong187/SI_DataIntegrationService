@@ -1,6 +1,6 @@
 from flask import Flask
 from flask import (
-    Blueprint, flash, g, redirect, render_template, request, session, url_for
+    Blueprint, flash, g, redirect, render_template, request, session, url_for, jsonify
 )
 from flask_pymongo import PyMongo
 from flask_bootstrap import Bootstrap
@@ -28,6 +28,14 @@ import py_stringsimjoin as ssj
 import py_stringmatching as sm
 import py_entitymatching as em
 
+ITVIEC_URL="http://localhost:8081/itviec"
+VNWORK_URL="http://localhost:8081/vietnamwork"
+ITVIEC_JSON = "./hanoi_itviec.json"
+VNWORK_JSON = "./hanoi_vietnamwork.json"
+PD_ITVIEC_JSON = "flaskr/hanoi_itviec.json"
+PD_VNWORK_JSON = "flaskr/hanoi_vietnamwork.json"
+
+# Tiền xử lý chuỗi ký tự
 def preprocess_title(title):
 	title = title.lower()
 	title = title.replace(',', ' ')
@@ -37,26 +45,44 @@ def preprocess_title(title):
 	title = title.encode('utf-8', 'ignore')
 	return title.strip()
 
+# Lấy data từ API của service Crawler, website itviec
+def get_data_itviec(itviec_url):
+    result = []
+    for page_num in range(1,33,1):
+        params = {"page_num": page_num, "limit": 20}
+        r = requests.get(url=itviec_url, params = params)
+        data = json.dumps(r.json())
+        jobs = json.loads(str(data))["result"]
+        for job in jobs:
+            result.append(job)
+    with open(ITVIEC_JSON, "w") as f:
+        json.dump(result, f)
+    f.close()
+    return result
 
+# Lấy data từ API của service Crawler, website vietnamwork
+def get_data_vnwork(itviec_url):
+    result = []
+    for page_num in range(1,80,1):
+        params = {"page_num": page_num, "limit": 50}
+        r = requests.get(url=itviec_url, params = params)
+        data = json.dumps(r.json())
+        jobs = json.loads(str(data))["result"]
+        for job in jobs:
+            result.append(job)
+    with open(VNWORK_JSON, "w") as f:
+        json.dump(result, f)
+    f.close()
+    return result
 
 bp = Blueprint('integrate', __name__, url_prefix='/integrate')
 
 @bp.route("/index")
 def integrate():
-    # itviec_url = ""
-    # vnwork_url = ""
-    # itviec_data = requests.get(url=itviec_url).json()
-    # vnwork_data = requests.get(url=vnwork_url).json()
-    #db = get_db()
-    #itviec_data = list(db.itviec.find())
-    #vnwork_data = list(db.vietnamwork.find())
-    # Data integration function
-    
-    # itviec_df = pd.DataFrame.from_records(itviec_data)
-    # vnwork_df = pd.DataFrame.from_records(vnwork_data)
-
-    itviec_df = pd.read_json('flaskr\hanoi_itviec.json')
-    vnwork_df = pd.read_json('flaskr\hanoi_vietnamwork.json')
+    #itviec_result = get_data_itviec(ITVIEC_URL)
+    #vnwork_result = get_data_vnwork(VNWORK_URL)
+    itviec_df = pd.read_json(PD_ITVIEC_JSON)
+    vnwork_df = pd.read_json(PD_VNWORK_JSON)
     itviec_df['id'] = range(itviec_df.shape[0])
     vnwork_df['id'] = range(vnwork_df.shape[0])
 
@@ -149,4 +175,18 @@ def integrate():
                                     delete_from_catalog=False)
     matches.drop('predicted', axis=1, inplace=True)
     matches = matches.to_dict('records')
-    return render_template("jobs/integrate.html", duplicates=matches)
+    duplicates_count = len(matches)
+    with open('flaskr/updated_duplicate.json', 'w') as file:
+        json.dump(matches, file)
+    return render_template("jobs/integrate.html", duplicates=matches, duplicates_count=duplicates_count)
+
+@bp.route("/jsonify")
+def return_json_result():
+    with open(PD_ITVIEC_JSON, 'r') as itviec_file:
+        itviec_data = json.load(itviec_file)
+    with open(PD_VNWORK_JSON, 'r') as vnwork_file:
+        vnwork_data = json.load(vnwork_file)
+    data = itviec_data + vnwork_data
+    itviec_file.close()
+    vnwork_file.close()
+    return json.dumps(data)
