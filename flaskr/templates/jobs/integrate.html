@@ -1,14 +1,16 @@
-{% extends 'base.html' %}
-
-{% block panel %}
+{% extends 'base.html' %} {% block panel %}
 <!-- <img  src="{{ url_for('static', filename='/assets/home.jpg') }}" /> -->
-<div class='panel-home' >
-  <h1>{% block title %}Hệ thống phát hiện {{ duplicates_count }} tin tuyển dụng việc làm trùng lặp {% endblock %}</h1>
+<div
+  class="panel-home"
+  style="background-image: url({{url_for('static', filename='images/bg-01.jpg')}})"
+>
+  <h1>
+    {% block title %}Hệ thống phát hiện {{ duplicates_count }} tin tuyển dụng
+    việc làm trùng lặp {% endblock %}
+  </h1>
 </div>
 
-{% endblock %}
-
-{% block header %}
+{% endblock %} {% block header %}
 <style>
   table {
     font-family: arial, sans-serif;
@@ -17,8 +19,9 @@
     table-layout: fixed;
     width: 1500px;
   }
-  
-  td, th {
+
+  td,
+  th {
     border: 1px solid #dddddd;
     text-align: left;
     padding: 8px;
@@ -28,56 +31,70 @@
     background-color: darkorange;
   }
 
-  td.info, th.info {
+  td.info,
+  th.info {
     width: 300px;
   }
-  
+
   tr:nth-child(even) {
     background-color: #dddddd;
   }
 </style>
-{% endblock %}
+{% endblock %} {% block content %}
 
-{% block content %}
-  
-  <div class="job-list" >
-    <h1 style="color: blue;">Cặp công việc trùng lặp</h1>
-    {% for job in duplicates %}
-      <div class="job-pair">
-        <table>
-          <thead><tr>
-            <th class="info">Thông tin công việc</th>
-            <th>Công việc thứ nhất</th>
-            <th>Công việc thứ hai</th>
-          </tr></thead>
-          <tbody>
-            <tr>
-              <td class="info">Tên công việc</td><td>{{ job['l_title'] }}</td><td>{{ job['r_title'] }}</td>
-            </tr>
-            <tr>
-              <td class="info">Công ty</td><td>{{ job['l_company'] }}</td><td>{{ job['r_company'] }}</td>
-            </tr>
-            <tr>
-              <td class="info">Lương</td><td>{{ job['l_salary'] }}</td><td>{{ job['r_salary'] }}</td>
-            </tr>
-            <tr>
-              <td class="info">Địa chỉ</td><td>{{ job['l_address'] }}</td><td>{{ job['r_address'] }}</td>
-            </tr>
-          </tbody>
-        </table>
-        <br/>
-        <br/>
-      </div>
-    {% endfor %}
+<div class="job-list">
+  <h1 style="color: blue">Cặp công việc trùng lặp</h1>
+  {% for job in duplicates %}
+  <div class="job-pair">
+    <table>
+      <thead>
+        <tr>
+          <th class="info">Thông tin công việc</th>
+          <th>Công việc thứ nhất</th>
+          <th>Công việc thứ hai</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="info">Tên công việc</td>
+          <td>{{ job['l_title'] }}</td>
+          <td>{{ job['r_title'] }}</td>
+        </tr>
+        <tr>
+          <td class="info">Công ty</td>
+          <td>{{ job['l_company'] }}</td>
+          <td>{{ job['r_company'] }}</td>
+        </tr>
+        <tr>
+          <td class="info">Lương</td>
+          <td>{{ job['l_salary'] }}</td>
+          <td>{{ job['r_salary'] }}</td>
+        </tr>
+        <tr>
+          <td class="info">Địa chỉ</td>
+          <td>{{ job['l_address'] }}</td>
+          <td>{{ job['r_address'] }}</td>
+        </tr>
+      </tbody>
+    </table>
+    <br />
+    <br />
   </div>
-  <hr>
-  <div>{{ page }}</div>
-  <form method="get" action="/home">
-    <label for="page_num">Số trang</label>
-    <input name="page_num" id="page_num" required>
-    <input type="submit" value="Go">
-    {% if text_s!=""%}
-    <input style="display: none;" type="text" name="search_text"  value = "{{text_s}}" >
-    {% endif %}
-  </form>
+  {% endfor %}
+</div>
+<hr />
+<div>{{ page }}</div>
+<form method="get" action="/home">
+  <label for="page_num">Số trang</label>
+  <input name="page_num" id="page_num" required />
+  <input type="submit" value="Go" />
+  {% if text_s!=""%}
+  <input
+    style="display: none"
+    type="text"
+    name="search_text"
+    value="{{text_s}}"
+  />
+  {% endif %}
+</form>
 {% endblock %}

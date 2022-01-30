@@ -193,6 +193,7 @@ body {
 }
 .panel-home {
   width: 100%;
+  background-size: cover;
   height: 25em;
   /* background-image: url("../../static/assets/home.jpg"); */
   display: flex;
@@ -202,7 +203,11 @@ body {
   padding-bottom: 0.5em;
   padding-top: 0.5em;
   border-radius: 0.5em;
-  background-color: #101010;
+}
+.panel-home-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }
 .background {
   background-repeat: no-repeat;

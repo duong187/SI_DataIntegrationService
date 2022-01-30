@@ -2,7 +2,7 @@
 
 {% block panel %}
 <!-- <img  src="{{ url_for('static', filename='/assets/home.jpg') }}" /> -->
-<div class='panel-home' >
+<div class='panel-home' style="background-image: url({{url_for('static', filename='images/bg-01.jpg')}})" >
   <h1>{% block title %}Hiện đang có {{jobs_count}} tin tuyển dụng việc làm {% endblock %}</h1>
 <!-- <form class="searchBox" method="GET" action="/search">
   <input class="searchInput" type='text' name = 'search_text' />
@@ -39,7 +39,7 @@
     <article class="jobs">
       <header>
         <div>
-          <a href="{{ job['url'] }}">
+          <a href="https://itviec.com{{job['url'][:-7] }}">
             <h1 style="color: black;">{{ job['title'] }}</h1>
           </a>
           <div class="about">Đăng bởi: {{ job['company'] }}</div>
